@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Proyecto\tareas\bin\Debug\net9.0\tareas.exe
+C:\Users\Admin\Documents\Proyecto\tareas\bin\Debug\net9.0\tareas.deps.json
+C:\Users\Admin\Documents\Proyecto\tareas\bin\Debug\net9.0\tareas.runtimeconfig.json
+C:\Users\Admin\Documents\Proyecto\tareas\bin\Debug\net9.0\tareas.dll
+C:\Users\Admin\Documents\Proyecto\tareas\bin\Debug\net9.0\tareas.pdb
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.AssemblyInfo.cs
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.dll
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\refint\tareas.dll
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.pdb
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\tareas.genruntimeconfig.cache
+C:\Users\Admin\Documents\Proyecto\tareas\obj\Debug\net9.0\ref\tareas.dll
